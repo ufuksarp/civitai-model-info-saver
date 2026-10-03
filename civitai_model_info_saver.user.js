@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Civitai Model Info Saver
 // @version      1.0.0
-// @description  Download Civitai model info as a ZIP with a presentable HTML page. If the model is later taken down or removed by the author, you will still have the info.
+// @description  A userscript to download Civitai model info as a ZIP with a presentable HTML page. If the model is later removed by Civitai or the author, you will still have the info.
 // @author       ufuksarp
 // @namespace    https://github.com/ufuksarp
 // @license      GPL-3.0-only
