@@ -1,6 +1,7 @@
 A userscript to download Civitai model info as a ZIP with a presentable HTML page. If the model is later removed by Civitai or the author, you will still have the info.
 
 ------------
+- Click *Model Info Saver* on the right panel on Civitai to show the download panel.
 
 - Fetches all the useful model info, any preview media, description and *About this version* sections, comments and replies.
 
